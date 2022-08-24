@@ -1,0 +1,10 @@
+$ git init
+$ git status
+$ git add .
+$ git commit -m <"commit_message">  -> creating master branch
+$ git branch 
+$ git branch <branch_name> 
+$ git checkout <branch_name>
+$ git merge
+$ mkdir <folder_name>
+
